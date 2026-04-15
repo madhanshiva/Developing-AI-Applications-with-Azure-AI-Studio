@@ -254,7 +254,7 @@ In this task, you will analyze and refine workflow processes to ensure maximum e
 
       >**Note:** In the Output section, if the outputs are already added, please check for the **values** and then select **Save**.
    
-1. Select **Evaluate (1)** -> **Custom Evaluation (2)**.
+1. Select **Evaluate (1)** -> **Custom evaluation (2)**.
 
    ![](./media/lab1-04-19.png)
 
@@ -282,7 +282,7 @@ In this task, you will analyze and refine workflow processes to ensure maximum e
 
    ![](./media/lab1-04-22.png)
    
-1. On the **Select evaluation** page, select **Classification Accuarancy Evaluation (1)** and click on **Next (2)**.
+1. On the **Select evaluation** page, select **Classification Accuracy Evaluation (1)** and click on **Next (2)**.
 
    ![](./media/lab1-04-23.png)
 
@@ -316,7 +316,7 @@ In this task, you will analyze and refine workflow processes to ensure maximum e
 
    ![](./media/L4T2S18-1211.png)
 
-1. Select **Evaluate (1)** and then select **Custom Evaluation (2)**.
+1. Select **Evaluate (1)** and then select **Custom evaluation (2)**.
 
    ![](./media/lab1-04-19.png)
 
@@ -344,7 +344,7 @@ In this task, you will analyze and refine workflow processes to ensure maximum e
 
    ![](./media/lab1-04-29.png)
 
-1. On the **Select evaluation** page select **Classification Accuarancy Evaluation (1)** and click on **Next (2)**.
+1. On the **Select evaluation** page select **Classification Accuracy Evaluation (1)** and click on **Next (2)**.
 
    ![](./media/L4T2S26-1911.png)
 

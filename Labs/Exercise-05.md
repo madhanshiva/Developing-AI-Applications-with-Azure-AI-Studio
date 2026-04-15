@@ -191,7 +191,7 @@ In this task, you will use the chat window to test the developed flow by leverag
 
    > **Note:** It might take 3-5 minutes for the endpoint to show.
 
-1. Wait untill the **Provisioning state** become **Succeeded (1)**, then only you will get the **Test (2)** tab.
+1. Wait until the **Provisioning state** become **Succeeded (1)**, then only you will get the **Test (2)** tab.
 
    ![](./media/lab1-04-34.png)
 
