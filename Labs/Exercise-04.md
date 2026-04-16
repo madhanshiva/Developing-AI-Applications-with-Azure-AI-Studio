@@ -209,7 +209,7 @@ In this task, you will refine model responses by adjusting prompts over successi
 
 1. Click the **Save (1)** button from the top menu, then select **Start compute session (2)**.
 
-    ![](./media/lab1-04-16.png)
+    ![](./media/lab1-04-17.png)
 
      >**Note:** It might take 10-15 minutes to start the session. Wait till the compute session starts.    
 
